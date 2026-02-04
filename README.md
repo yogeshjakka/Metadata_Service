@@ -78,7 +78,7 @@ Cycle detection uses **Depth-First Search (DFS)** before lineage insertion.
 | Database | MySQL |
 | Containers | Docker Compose |
 | Migrations | Alembic |
-| Dependencies | pip, also added poetry(I had some issue) |
+| Dependencies | pip |
 | Config | .env |
 
 ---
